@@ -3,7 +3,7 @@ const { Web3 } = require('web3');
 const axios = require('axios');
 
 // RPC endpoint URL
-const rpcEndpoint = 'https://mainnet.infura.io/v3/';
+const rpcEndpoint = 'https://eth1.lava.build/lava-referer-9c9fb9f7-8c96-42bc-bef1-2325cea50f1c/';
 
 // Your Wallet address
 const walletAddress = '0x922D12Bc61F2c35D6B43cC9908Cc20635272f1d0';
